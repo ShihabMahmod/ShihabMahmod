@@ -1,4 +1,4 @@
-![logo](https://github.com/ShihabMahmod/ShihabMahmod/blob/main/Github%20Logo.jpg)
+
 <h1 align="center">Hi 👋, I'm Sahab Uddin(Shihab)</h1>
 <h3 align="center">A passionate Full Stack(Laravel+ React js) developer from Bangladesh</h3>
 
