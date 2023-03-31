@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **shihabmahmod58@gmail.com**
 
-- 📄 Know about my experiences [http://shihab.kakrabuniaup.com/](http://shihab.kakrabuniaup.com/)
-
 - ⚡ Fun fact **I am friendly**
 
 <h3 align="left">Connect with me:</h3>
