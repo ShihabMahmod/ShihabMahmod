@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sahab Uddin(Shihab)</h1>
-<h3 align="center">A passionate Full Stack(Laravel+ React js) developer from Bangladesh</h3>
+<h3 align="center">A passionate Full Stack Developer at Qumodosoft</h3>
 
 <img align="right" alt="Codding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **initial js**
 
-- 💬 Ask me about **React.js, Node.js ,Laravel**
+- 💬 Ask me about **core PHP and Laravel**
 
 - 📫 How to reach me **shihabmahmod58@gmail.com**
 
