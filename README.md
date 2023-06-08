@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Quomodosoft as a laravel developer**
 
-- 🌱 I’m currently learning **Livewire laravel package**
+- 🌱 I’m currently learning **initial js**
 
-- 💬 Ask me about **React.js ,Laravel**
+- 💬 Ask me about **React.js, Node.js ,Laravel**
 
 - 📫 How to reach me **shihabmahmod58@gmail.com**
 
