@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **initial js**
 
 - 💬 Ask me about **core PHP and Laravel**
-- 
+ 
 - 💬 Ask me about **Node js,React js and MongoDb**
 
 - 📫 How to reach me **shihabmahmod58@gmail.com**
